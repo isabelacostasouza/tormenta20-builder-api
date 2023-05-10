@@ -1,0 +1,171 @@
+{
+    "raças": [
+        {
+            "nome": "Humano",
+            "atributos": {
+                "livre": {
+                    "quantidade": 3,
+                    "valor": 2
+                }
+            },
+            "habilidades": ["Versátil"]
+        },
+        {
+            "nome": "Anão",
+            "atributos": {
+                "constituição": 4,
+                "sabedoria": 2,
+                "destreza": -2
+            },
+            "habilidades": ["Conhecimento das Rochas", "Devagar e Sempre", "Tradição de Heredrimm"]
+        },
+        {
+            "nome": "Dahllan",
+            "atributos": {
+                "sabedoria": 4,
+                "destreza": 2,
+                "inteligência": -2
+            },
+            "habilidades": ["Armadura de Allihanna", "Empatia selvagem", "Amiga das Plantas"]
+        },
+        {
+            "nome": "Elfo",
+            "atributos": {
+                "inteligência": 4,
+                "destreza": 2,
+                "constituição": -2
+            },
+            "habilidades": ["Graça de Glórienn", "Herança Feérica", "Sentidos Élficos"]
+        },
+        {
+            "nome": "Goblin",
+            "atributos": {
+                "inteligência": 2,
+                "destreza": 4,
+                "carisma": -2
+            },
+            "habilidades": ["Engenhoso", "Espelunqueiro", "Peste Esguia", "Rato das Ruas"]
+        },
+        {
+            "nome": "Lefou",
+            "atributos": {
+                "livre": {
+                    "quantidade": 3,
+                    "valor": 2,
+                    "excessao": "carisma"
+                },
+                "carisma": -2
+            },
+            "habilidades": ["Cria da Tormenta", "Deformidade"]
+        },
+        {
+            "nome": "Minotauro",
+            "atributos": {
+                "constituição": 2,
+                "força": 4,
+                "sabedoria": -2
+            },
+            "habilidades": ["Couro Rígido", "Chifres", "Faro", "Medo de Altura"]
+        },
+        {
+            "nome": "Qareen",
+            "atributos": {
+                "inteligência": 2,
+                "carisma": 4,
+                "sabedoria": -2
+            },
+            "habilidades": ["Desejos", "Resistência Elemental", "Tatuagem Mística"]
+        },
+        {
+            "nome": "Golem",
+            "atributos": {
+                "constituição": 2,
+                "força": 4,
+                "carisma": -2
+            },
+            "habilidades": ["Canalizar Reparos", "Chassi", "Criatura Artificial", "Espírito Elemental", "Sem Origem"]
+        },
+        {
+            "nome": "Hynne",
+            "atributos": {
+                "destreza": 4,
+                "carisma": 2,
+                "força": -2
+            },
+            "habilidades": ["Arremessador", "Pequeno e Rechonchudo", "Sorte Salvadora"]
+        },
+        {
+            "nome": "Kliren",
+            "atributos": {
+                "inteligência": 4,
+                "carisma": 2,
+                "força": -2
+            },
+            "habilidades": ["Híbrido", "Lógica Gnômica", "Ossos Frágeis", "Vanguardista"]
+        },
+        {
+            "nome": "Medusa",
+            "atributos": {
+                "inteligência": 4,
+                "carisma": 2
+            },
+            "habilidades": ["Cria de Megalokk", "Natureza Venenosa", "Olhar Atordoante"]
+        },
+        {
+            "nome": "Osteon",
+            "atributos": {
+                "livre": {
+                    "quantidade": 3,
+                    "valor": 2,
+                    "excessao": "constituição"
+                },
+                "constituição": -2
+            },
+            "habilidades": ["Armadura óssea", "Memória Póstuma", "Natureza Esquelética", "Preço da Não Vida"]
+        },
+        {
+            "nome": "Sereia / Tritão",
+            "atributos": {
+                "livre": {
+                    "quantidade": 3,
+                    "valor": 2
+                }
+            },
+            "habilidades": ["Canção dos Mares", "Mestre do Tridente", "Transformação Anfíbia"]
+        },
+        {
+            "nome": "Sílfide",
+            "atributos": {
+                "destreza": 2,
+                "carisma": 4,
+                "força": -4
+            },
+            "habilidades": ["Asas de Borboleta", "Espírito da Natureza", "Magia das Fadas"]
+        },
+        {
+            "nome": "Aggelus",
+            "atributos": {
+                "sabedoria": 4,
+                "carisma": 2
+            },
+            "habilidades": ["Herança Divina", "Luz Sagrada"]
+        },
+        {
+            "nome": "Sulfure",
+            "atributos": {
+                "destreza": 4,
+                "inteligência": 2
+            },
+            "habilidades": ["Herança Divina", "Sombras Profanas"]
+        },
+        {
+            "nome": "Trog",
+            "atributos": {
+                "constituição": 4,
+                "força": 2,
+                "inteligência": -4
+            },
+            "habilidades": ["Mau Cheiro", "Mordida", "Reptiliano", "Sangue Frio"]
+        }
+    ]
+}

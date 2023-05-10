@@ -1,0 +1,19 @@
+{
+    "personagem": {
+        "raca": "",
+        "classe": "",
+        "origem": "",
+        "deus": "",
+        "nivel": 1,
+        "defesa_extra": 0,
+        "pericias": [],
+        "atributos": [],
+        "atributos_extra": [],
+        "armas": [],
+        "armadura": "",
+        "escudo": "",
+        "escolas_magia": [],
+        "magias": [],
+        "poderes": []
+    }
+}

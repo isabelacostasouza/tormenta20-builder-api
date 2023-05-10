@@ -1,0 +1,1203 @@
+{
+    "classes": [
+        {
+            "nome": "Arcanista",
+            "atributos": {
+                "mana": 6,
+                "vida": 8,
+                "vida_por_nivel": 2
+            },
+            "pericia": ["Misticismo", "Vontade"],
+            "pericias_opcionais": 1,
+            "niveis": [
+                {
+                    "magias_1": 3,
+                    "habilidades": ["Caminho do arcanista"]
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1,
+                    "habilidades": ["Alta arcana"]
+                }
+            ]
+        },
+        {
+            "nome": "Bárbaro",
+            "atributos": {
+                "mana": 3,
+                "vida": 24,
+                "vida_por_nivel": 8
+            },
+            "pericia": ["Fortitude", "Luta"],
+            "pericias_opcionais": 4,
+            "proeficiencias": ["Armas marciais", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Fúria +2"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Instinto selvagem"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Resistência a dano 2"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fúria +3"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Resistência a dano 4"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Instinto selvagem +2"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fúria +4", "Resistência a dano 6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Resistência a dano 8"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Instinto selvagem +3"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fúria +5"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Resistência a dano 10"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fúria titânica"]
+                }
+            ]
+        },
+        {
+            "nome": "Bardo",
+            "atributos": {
+                "mana": 4,
+                "vida": 12,
+                "vida_por_nivel": 3
+            },
+            "pericia": ["Atuação", "Reflexos"],
+            "pericias_opcionais": 6,
+            "proeficiencias": ["Armas marciais"],
+            "niveis": [
+                {
+                    "magias_1": 2,
+                    "habilidades": ["Inspiração +1"]
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1,
+                    "habilidades": ["Eclético"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Inspiração +2"],
+                    "remover": ["Inspiração +1"]
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Inspiração +3"],
+                    "remover": ["Inspiração +2"]
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Inspiração +4"],
+                    "remover": ["Inspiração +3"]
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Inspiração +5"],
+                    "remover": ["Inspiração +4"]
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1,
+                    "habilidades": ["Artista completo"]
+                }
+            ]
+        },
+        {
+            "nome": "Bucaneiro",
+            "atributos": {
+                "mana": 3,
+                "vida": 16,
+                "vida_por_nivel": 4
+            },
+            "pericia": ["Pontaria", "Reflexos"],
+            "pericias_opcionais": 4,
+            "proeficiencias": ["Armas marciais"],
+            "niveis": [
+                {
+                    "habilidades": ["Audácia", "Insolência"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Evasão"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sagaz +1"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Panache"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sagaz +2"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Evasão aprimorada"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sagaz +3"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sagaz +4"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sagaz +5"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Sorte de Nimb"]
+                }
+            ]
+        },
+        {
+            "nome": "Caçador",
+            "atributos": {
+                "mana": 4,
+                "vida": 16,
+                "vida_por_nivel": 4
+            },
+            "pericia": ["Pontaria", "Sobrevivência"],
+            "pericias_opcionais": 6,
+            "proeficiencias": ["Armas marciais", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Marca da presa +1d4", "Rastreador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Explorador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Marca da presa +1d8", "Caminho do explorador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Explorador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Marca da presa +1d12"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Explorador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Marca da presa +2d8"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Explorador"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Marca da presa +2d10"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Explorador"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Mestre caçador"]
+                }
+            ]
+        },
+        {
+            "nome": "Cavaleiro",
+            "atributos": {
+                "mana": 3,
+                "vida": 20,
+                "vida_por_nivel": 5
+            },
+            "pericia": ["Luta", "Fortitude"],
+            "pericias_opcionais": 2,
+            "proeficiencias": ["Armas marciais", "Armaduras pesadas", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Baluarte +2", "Código de honra"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Duelo"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte +4", "Caminho do cavaleiro"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte (aliados adjacentes)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte +6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Resoluto"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte +8"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte (aliados em alcance curto)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Baluarte +10"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Bravura final"]
+                }
+            ]
+        },
+        {
+            "nome": "Clérigo",
+            "atributos": {
+                "mana": 5,
+                "vida": 16,
+                "vida_por_nivel": 4
+            },
+            "pericia": ["Religião", "Vontade"],
+            "pericias_opcionais": 2,
+            "proeficiencias": ["Armaduras pesadas", "Escudos"],
+            "niveis": [
+                {
+                    "magias_1": 3,
+                    "habilidades": ["Devoto"]
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1
+                },
+                {
+                    "magias_5": 1,
+                    "poderes": 1,
+                    "habilidades": ["Mão da divindade"]
+                }
+            ]
+        },
+        {
+            "nome": "Druida",
+            "atributos": {
+                "mana": 4,
+                "vida": 16,
+                "vida_por_nivel": 4
+            },
+            "pericia": ["Sobrevivência", "Vontade"],
+            "pericias_opcionais": 4,
+            "proeficiencias": ["Escudos"],
+            "niveis": [
+                {
+                    "magias_1": 2,
+                    "habilidades": ["Devoto", "Empatia selvagem"]
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1,
+                    "habilidades": ["Caminho dos ermos"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_1": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_2": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_3": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "magias_4": 1,
+                    "poderes": 1,
+                    "habilidades": ["Força da natureza"]
+                }
+            ]
+        },
+        {
+            "nome": "Guerreiro",
+            "atributos": {
+                "mana": 3,
+                "vida": 20,
+                "vida_por_nivel": 5
+            },
+            "pericia": ["Luta", "Fortitude"],
+            "pericias_opcionais": 2,
+            "proeficiencias": ["Armas marciais", "Armaduras pesadas", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Ataque especial +4"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Durão"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque especial +8"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque extra"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque especial +12"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque especial +16"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque especial +20"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Campeão"]
+                }
+            ]
+        },
+        {
+            "nome": "Inventor",
+            "atributos": {
+                "mana": 4,
+                "vida": 12,
+                "vida_por_nivel": 3
+            },
+            "pericia": ["Ofício", "Vontade"],
+            "pericias_opcionais": 4,
+            "niveis": [
+                {
+                    "habilidades": ["Engenhosidade", "Protótipo"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (1 modificação)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Comerciante"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (2 modificações)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (3 modificações)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Encontrar fraqueza"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (4 modificações)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item mágico (menor)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (5 modificações)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Olho do dragão"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item superior (6 modificações)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item mágico (médio)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Fabricar item mágico (maior)"]                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Obra-prima"]
+                }
+            ]
+        },
+        {
+            "nome": "Ladino",
+            "atributos": {
+                "mana": 4,
+                "vida": 12,
+                "vida_por_nivel": 3
+            },
+            "pericia": ["Ladinagem", "Reflexos"],
+            "pericias_opcionais": 8,
+            "niveis": [
+                {
+                    "habilidades": ["Ataque furtivo +1d6", "Especialista"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Evasão"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +2d6"],
+                    "remover": ["Ataque furtivo +1d6"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Esquiva sobrenatural"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +3d6"],
+                    "remover": ["Ataque furtivo +2d6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +4d6"],
+                    "remover": ["Ataque furtivo +3d6"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Olhos nas costas"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +5d6"],
+                    "remover": ["Ataque furtivo +4d6"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Evasão aprimorada"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +6d6"],
+                    "remover": ["Ataque furtivo +5d6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +7d6"],
+                    "remover": ["Ataque furtivo +6d6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +8d6"],
+                    "remover": ["Ataque furtivo +7d6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +9d6"],
+                    "remover": ["Ataque furtivo +8d6"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Ataque furtivo +10d6"],
+                    "remover": ["Ataque furtivo +9d6"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["A pessoa certa para o trabalho"]
+                }
+            ]
+        },
+        {
+            "nome": "Lutador",
+            "atributos": {
+                "mana": 3,
+                "vida": 20,
+                "vida_por_nivel": 5
+            },
+            "pericia": ["Fortitude", "Luta"],
+            "pericias_opcionais": 4,
+            "niveis": [
+                {
+                    "habilidades": ["Briga (1d6)", "Golpe relâmpago"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Casca grossa (Con)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Briga (1d8)", "Golpe cruel"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Casca grossa (Con+1)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Briga (1d10)", "Golpe violento"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Casca grossa (Con+2)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Briga (2d6)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Casca grossa (Con+3)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Briga (2d8)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Casca grossa (Con+4)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Dono da rua (2d10)"]
+                }
+            ]
+        },
+        {
+            "nome": "Nobre",
+            "atributos": {
+                "mana": 4,
+                "vida": 16,
+                "vida_por_nivel": 4
+            },
+            "pericia": ["Diplomacia", "Vontade"],
+            "pericias_opcionais": 4,
+            "proeficiencias": ["Armas marciais", "Armaduras pesadas", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Autoconfiança", "Espólio", "Orgulho"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Riqueza"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Gritar ordens"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Realeza"]
+                }
+            ]
+        },
+        {
+            "nome": "Paladino",
+            "atributos": {
+                "mana": 3,
+                "vida": 20,
+                "vida_por_nivel": 5
+            },
+            "pericia": ["Luta", "Vontade"],
+            "pericias_opcionais": 2,
+            "proeficiencias": ["Armas marciais", "Armaduras pesadas", "Escudos"],
+            "niveis": [
+                {
+                    "habilidades": ["Abençoado", "Código do herói", "Golpe divino (+1d8)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Cura pelas mãos (1d8+1 PV)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Aura sagrada"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Bênção da justiça", "Golpe divino (+2d8)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Cura pelas mãos (2d8+2 PV)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Golpe divino (+3d8)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Cura pelas mãos (3d8+3 PV)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Golpe divino (+4d8)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Cura pelas mãos (4d8+4 PV)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Golpe divino (+5d8)"]
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Cura pelas mãos (5d8+5 PV)"]
+                },
+                {
+                    "poderes": 1
+                },
+                {
+                    "poderes": 1,
+                    "habilidades": ["Vingador sagrado"]
+                }
+            ]
+        }
+    ]
+}

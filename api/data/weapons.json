@@ -1,0 +1,324 @@
+{
+    "armas": [
+        {
+            "nome": "Adaga",
+            "dano": "1d4",
+            "alcance": "curto",
+            "critico": "19",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Leves"
+        },
+        {
+            "nome": "Espada curta",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Leves"
+        },
+        {
+            "nome": "Foice",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Leves"
+        },
+        {
+            "nome": "Clava",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Lança",
+            "dano": "1d6",
+            "alcance": "curto",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Maça",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Bordão",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Pique",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Tacape",
+            "dano": "1d10",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Arco curto",
+            "dano": "1d6",
+            "alcance": "médio",
+            "critico": "3x",
+            "tipo": "simples",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Besta leve",
+            "dano": "1d8",
+            "alcance": "médio",
+            "critico": "19",
+            "tipo": "simples",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Azagaia",
+            "dano": "1d6",
+            "alcance": "médio",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Funda",
+            "dano": "1d4",
+            "alcance": "médio",
+            "critico": "2x",
+            "tipo": "simples",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Escudo leve",
+            "dano": "1d4",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Leves"
+        },
+        {
+            "nome": "Machadinha",
+            "dano": "1d6",
+            "alcance": "curto",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Leves"
+        },
+        {
+            "nome": "Cimitarra",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "18",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Escudo pesado",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Espada longa",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Florete",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "18",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Machado de batalha",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Mangual",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Martelo de guerra",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Picareta",
+            "dano": "1d6",
+            "alcance": "contato",
+            "critico": "4x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Tridente",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "2x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Alabarda",
+            "dano": "1d10",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Alfange",
+            "dano": "2d4",
+            "alcance": "contato",
+            "critico": "18",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Gadanho",
+            "dano": "2d4",
+            "alcance": "contato",
+            "critico": "4x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Lança montada",
+            "dano": "1d8",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Machado de guerra",
+            "dano": "1d12",
+            "alcance": "contato",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Montante",
+            "dano": "2d6",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "marcial",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Arco longo",
+            "dano": "1d8",
+            "alcance": "médio",
+            "critico": "3x",
+            "tipo": "marcial",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Besta pesada",
+            "dano": "1d12",
+            "alcance": "médio",
+            "critico": "19",
+            "tipo": "marcial",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Chicote",
+            "dano": "1d3",
+            "alcance": "contato",
+            "critico": "x2",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Espada bastarda",
+            "dano": "1d12",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Katana",
+            "dano": "1d10",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Machado anão",
+            "dano": "1d10",
+            "alcance": "contato",
+            "critico": "x3",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Uma Mão"
+        },
+        {
+            "nome": "Corrente de espinhos",
+            "dano": "2d4",
+            "alcance": "contato",
+            "critico": "19",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Machado táurico",
+            "dano": "2d8",
+            "alcance": "contato",
+            "critico": "x3",
+            "tipo": "exótica",
+            "subtipo": "Corpo a Corpo — Duas Mãos"
+        },
+        {
+            "nome": "Mosquete",
+            "dano": "2d8",
+            "alcance": "médio",
+            "critico": "x3",
+            "tipo": "fogo",
+            "subtipo": "Ataque à Distância"
+        },
+        {
+            "nome": "Pistola",
+            "dano": "2d6",
+            "alcance": "curto",
+            "critico": "x3",
+            "tipo": "fogo",
+            "subtipo": "Ataque à Distância"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "deuses": [
+        {
+            "nome": "-",
+            "energia": "Neutra",
+            "poderes": []
+        },
+        {
+            "nome": "Aharadak",
+            "energia": "Negativa",
+            "poderes": ["Afinidade com a Tormenta", "Percepção Temporal", "Rejeição Divina"]
+        },
+        {
+            "nome": "Allihanna",
+            "energia": "Positiva",
+            "poderes": ["Dedo Verde", "Descanso Natural", "Voz da Natureza"]
+        },
+        {
+            "nome": "Arsenal",
+            "energia": "Negativa",
+            "poderes": ["Conjurar Arma", "Coragem Total", "Sangue de Ferro"]
+        },
+        {
+            "nome": "Azgher",
+            "energia": "Positiva",
+            "poderes": ["Espada Solar", "Habitante do Deserto", "Inimigo de Tenebra"]
+        },
+        {
+            "nome": "Hyninn",
+            "energia": "Qualquer",
+            "poderes": ["Farsa do Fingidor", "Forma de Macaco", "Golpista Divino"]
+        },
+        {
+            "nome": "Kallyadranoch",
+            "energia": "Negativa",
+            "poderes": ["Aura de Medo", "Escamas Dracônicas", "Servos do Dragão"]
+        },
+        {
+            "nome": "Khalmyr",
+            "energia": "Positiva",
+            "poderes": ["Coragem Total", "Dom da Verdade", "Espada Justiceira"]
+        },
+        {
+            "nome": "Lena",
+            "energia": "Positiva",
+            "poderes": ["Ataque Piedoso", "Aura Restauradora", "Cura Gentil", "Curandeira Perfeita"]
+        },
+        {
+            "nome": "Lin-Wu",
+            "energia": "Qualquer",
+            "poderes": ["Coragem Total", "Kiai Divino", "Mente Vazia"]
+        },
+        {
+            "nome": "Marah",
+            "energia": "Positiva",
+            "poderes": ["Aura de Paz", "Palavras de Bondade", "Talento Artístico"]
+        },
+        {
+            "nome": "Megalokk",
+            "energia": "Negativa",
+            "poderes": ["Olhar Amedrontador", "Urro Divino", "Voz dos Monstros"]
+        },
+        {
+            "nome": "Nimb",
+            "energia": "Qualquer",
+            "poderes": ["Poder Oculto", "Sorte dos Loucos", "Transmissão da Loucura"]
+        },
+        {
+            "nome": "Oceano",
+            "energia": "Qualquer",
+            "poderes": ["Anfíbio", "Arsenal das Profundezas", "Mestre dos Mares"]
+        },
+        {
+            "nome": "Sszzaas",
+            "energia": "Negativa",
+            "poderes": ["Astúcia da Serpente", "Presas Venenosas", "Sangue Ofídico"]
+        },
+        {
+            "nome": "Tanna-Toh",
+            "energia": "Qualquer",
+            "poderes": ["Conhecimento Enciclopédico", "Mente Analítica", "Voz da Civilização"]
+        },
+        {
+            "nome": "Tenebra",
+            "energia": "Negativa",
+            "poderes": ["Carícia Sombria", "Manto da Penumbra", "Visão nas Trevas"]
+        },
+        {
+            "nome": "Thwor",
+            "energia": "Qualquer",
+            "poderes": ["Fúria Divina", "Olhar Amedrontador", "Tropas Duyshidakk"]
+        },
+        {
+            "nome": "Thyatis",
+            "energia": "Positiva",
+            "poderes": ["Ataque Piedoso", "Dom da Imortalidade", "Dom da Profecia", "Dom da Ressurreição"]
+        },
+        {
+            "nome": "Valkaria",
+            "energia": "Positiva",
+            "poderes": ["Armas da Ambição", "Coragem Total", "Liberdade Divina"]
+        },
+        {
+            "nome": "Wynna",
+            "energia": "Qualquer",
+            "poderes": ["Bênção do Mana", "Centelha Mágica", "Escudo Mágico", "Teurgista Místico"]
+        }
+    ]
+}

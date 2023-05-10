@@ -1,0 +1,184 @@
+{
+    "pericias": [
+        {
+            "nome": "Acrobacia",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 0
+        },
+        {
+            "nome": "Adestramento",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 1
+        },
+        {
+            "nome": "Atletismo",
+            "atributo": "For",
+            "num_atributo": 0,
+            "index": 2
+        },
+        {
+            "nome": "Atuação",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 3
+        },
+        {
+            "nome": "Cavalgar",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 4
+        },
+        {
+            "nome": "Conhecimento",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 5
+        },
+        {
+            "nome": "Cura",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 6
+        },
+        {
+            "nome": "Diplomacia",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 7
+        },
+        {
+            "nome": "Enganação",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 8
+        },
+        {
+            "nome": "Fortitude",
+            "atributo": "Con",
+            "num_atributo": 2,
+            "index": 9
+        },
+        {
+            "nome": "Furtividade",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 10
+        },
+        {
+            "nome": "Guerra",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 11
+        },
+        {
+            "nome": "Iniciativa",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 12
+        },
+        {
+            "nome": "Intimidação",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 13
+        },
+        {
+            "nome": "Intuição",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 14
+        },
+        {
+            "nome": "Investigação",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 15
+        },
+        {
+            "nome": "Jogatina",
+            "atributo": "Car",
+            "num_atributo": 5,
+            "index": 16
+        },
+        {
+            "nome": "Ladinagem",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 17
+        },
+        {
+            "nome": "Luta",
+            "atributo": "For",
+            "num_atributo": 0,
+            "index": 18
+        },
+        {
+            "nome": "Misticismo",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 19
+        },
+        {
+            "nome": "Nobreza",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 20
+        },
+        {
+            "nome": "Percepção",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 21
+        },
+        {
+            "nome": "Pilotagem",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 22
+        },
+        {
+            "nome": "Pontaria",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 23
+        },
+        {
+            "nome": "Reflexos",
+            "atributo": "Des",
+            "num_atributo": 1,
+            "index": 24
+        },
+        {
+            "nome": "Religião",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 25
+        },
+        {
+            "nome": "Sobrevivência",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 26
+        },
+        {
+            "nome": "Vontade",
+            "atributo": "Sab",
+            "num_atributo": 4,
+            "index": 27
+        },
+        {
+            "nome": "Ofício",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 28
+        },
+        {
+            "nome": "Ofício",
+            "atributo": "Int",
+            "num_atributo": 3,
+            "index": 29
+        }
+    ]
+}

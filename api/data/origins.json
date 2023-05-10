@@ -1,0 +1,218 @@
+{
+    "origens": [
+        {
+            "nome": "Acólito",
+            "items": ["Símbolo sagrado", "Traje de sacerdote"],
+            "pericia": ["Cura", "Religião", "Vontade"],
+            "poderes": ["Medicina", "Membro da Igreja", "Vontade de Ferro"]
+        },
+        {
+            "nome": "Amigo dos Animais",
+            "items_opcao": ["Cão de guarda", "Cavalo", "Pônei", "Trobo"],
+            "pericia": ["Adestramento", "Cavalgar"],
+            "poderes": ["Amigo Especial"]
+        },
+        {
+            "nome": "Amnésico",
+            "items": ["Items somando até T$ 100"],
+            "pericia": ["Escolhido pelo mestre"],
+            "poderes": ["Lembranças Graduais", "Escolhido pelo mestre"]
+        },
+        {
+            "nome": "Aristocrata",
+            "items": ["Joia de família no valor de T$ 100", "Traje da corte"],
+            "pericia": ["Diplomacia", "Enganação", "Nobreza"],
+            "poderes": ["Comandar", "Sangue Azul"]
+        },
+        {
+            "nome": "Artesão",
+            "items": ["Kit de ofício", "Um item que você possa fabricar de até T$ 50"],
+            "pericia": ["Ofício", "Vontade"],
+            "poderes": ["Frutos do Trabalho", "Sortudo"]
+        },
+        {
+            "nome": "Artista",
+            "items_opcao": ["Kit de disfarces", "Instrumento musical"],
+            "pericia": ["Atuação", "Enganação"],
+            "poderes": ["Atraente", "Dom Artístico", "Sortudo", "Torcida"]
+        },
+        {
+            "nome": "Assistente de Laboratório",
+            "items": ["Kit de Ofício (alquimia)"],
+            "pericia": ["Ofício (alquimia)", "Misticismo"],
+            "poderes": ["Esse Cheiro...", "Venefício", "Poder de Tormenta"]
+        },
+        {
+            "nome": "Batedor",
+            "items": ["Barraca"],
+            "items_opcao": ["Arma simples de ataque à distância", "Arma marcial de ataque à distância"],
+            "pericia": ["Furtividade", "Percepção", "Sobrevivência"],
+            "poderes": ["À Prova de Tudo", "Estilo de Disparo", "Sentidos Aguçados"]
+        },
+        {
+            "nome": "Capanga",
+            "items": ["Arma simples corpo a corpo"],
+            "items_opcao": ["Tatuagem", "Adereço de gangue"],
+            "pericia": ["Luta", "Intimidação", "Intimidação"],
+            "poderes": ["Confissão", "Poder de Combate"]
+        },
+        {
+            "nome": "Charlatão",
+            "items": ["Joia falsificada (valor aparente de T$ 100, sem valor real)", "Kit de disfarces"],
+            "pericia": ["Enganação", "Jogatina"],
+            "poderes": ["Alpinista Social", "Aparência Inofensiva", "Sortudo"]
+        },
+        {
+            "nome": "Circense",
+            "items": ["Traje de artista", "Bolas coloridas para malabarismo", "Baralho"],
+            "pericia": ["Acrobacia", "Atuação", "Reflexos"],
+            "poderes": ["Acrobático", "Torcida", "Truque de Mágica"]
+        },
+        {
+            "nome": "Criminoso",
+            "items_opcao": ["Kit de ladrão", "Kit de disfarces"],
+            "pericia": ["Enganação", "Furtividade", "Ladinagem"],
+            "poderes": ["Punguista", "Venefício"]
+        },
+        {
+            "nome": "Curandeiro",
+            "items": ["Bálsamo restaurador", "Kit de medicamentos"],
+            "pericia": ["Cura", "Vontade"],
+            "poderes": ["Medicina", "Médico de Campo", "Venefício"]
+        },
+        {
+            "nome": "Eremita",
+            "items": ["Barraca", "Kit de medicamentos"],
+            "pericia": ["Misticismo", "Religião", "Sobrevivência"],
+            "poderes": ["Busca Interior", "Lobo Solitário"]
+        },
+        {
+            "nome": "Escravo",
+            "items": ["Algemas", "Ferramenta pesada (mesmas estatísticas de uma maça)"],
+            "pericia": ["Atletismo, Fortitude, Furtividade"],
+            "poderes": ["Desejo de Liberdade", "Vitalidade"]
+        },
+        {
+            "nome": "Estudioso",
+            "items_opcao": ["Um livro aprimorado (+2 em Conhecimento, Guerra ou Misticismo)", "Três livros comuns a sua escolha"],
+            "pericia": ["Conhecimento, Guerra, Misticismo"],
+            "poderes": ["Aparência Inofensiva", "Palpite Fundamentado"]
+        },
+        {
+            "nome": "Fazendeiro",
+            "items": ["Ferramenta agrícola (mesmas estatísticas de uma lança)", "10 rações de viagem", "Um animal não combativo"],
+            "pericia": ["Adestramento", "Cavalgar", "Ofício (fazendeiro)", "Sobrevivência"],
+            "poderes": ["Água no Feijão", "Ginete"]
+        },
+        {
+            "nome": "Forasteiro",
+            "items": ["Diário de viagens", "Traje de viagem estrangeiro", "Instrumento musical exótico"],
+            "pericia": ["Cavalgar", "Pilotagem", "Sobrevivência"],
+            "poderes": ["Cultura Exótica", "Lobo Solitário"]
+        },
+        {
+            "nome": "Gladiador",
+            "items": ["Arma marcial", "Item sem valor recebido de um admirador"],
+            "pericia": ["Atuação", "Luta"],
+            "poderes": ["Atraente", "Pão e Circo", "Torcida", "Poder de Combate"]
+        },
+        {
+            "nome": "Guarda",
+            "items": ["Apito", "Insígnia da milícia", "Arma marcial"],
+            "pericia": ["Investigação", "Luta", "Percepção"],
+            "poderes": ["Detetive", "Investigador", "Poder de Combate"]
+        },
+        {
+            "nome": "Herdeiro",
+            "items": ["Símbolo de sua herança"],
+            "pericia": ["Misticismo", "Nobreza", "Ofício"],
+            "poderes": ["Comandar", "Herança"]
+        },
+        {
+            "nome": "Herói Camponês",
+            "items": ["Traje de plebeu"],
+            "items_opcao": ["Kit de ofício", "Arma simples"],
+            "pericia": ["Adestramento", "Ofício"],
+            "poderes": ["Amigo dos Plebeus", "Sortudo", "Surto Heroico", "Torcida"]
+        },
+        {
+            "nome": "Marujo",
+            "items": ["T$ 2d6", "Corda"],
+            "pericia": ["Atletismo", "Jogatina", "Pilotagem"],
+            "poderes": ["Acrobático", "Passagem de Navio"]
+        },
+        {
+            "nome": "Mateiro",
+            "items": ["Barraca", "Arco curto", "20 flechas"],
+            "pericia": ["Atletismo", "Furtividade", "Sobrevivência"],
+            "poderes": ["Lobo Solitário", "Sentidos Aguçados", "Vendedor de Carcaças"]
+        },
+        {
+            "nome": "Membro de Guilda",
+            "items_opcao": ["Kit de ladrão", "Kit de ofício"],
+            "pericia": ["Diplomacia", "Enganação", "Misticismo", "Ofício"],
+            "poderes": ["Foco em Perícia", "Rede de Contatos"]
+        },
+        {
+            "nome": "Mercador",
+            "items": ["Carroça", "Trobo", "Mercadorias para vender no valor de T$ 100"],
+            "pericia": ["Diplomacia", "Intuição, Ofício"],
+            "poderes": ["Negociação", "Proficiência", "Sortudo"]
+        },
+        {
+            "nome": "Minerador",
+            "items": ["Gemas preciosas no valor de T$ 100", "Picareta"],
+            "pericia": ["Atletismo", "Fortitude", "Ofício (minerador)"],
+            "poderes": ["Ataque Poderoso", "Escavador", "Sentidos Aguçados"]
+        },
+        {
+            "nome": "Nômade",
+            "items": ["Bordão", "Bússola"],
+            "pericia": ["Cavalgar", "Pilotagem", "Sobrevivência"],
+            "poderes": ["Lobo Solitário", "Mochileiro", "Sentidos Aguçados"]
+        },
+        {
+            "nome": "Pivete",
+            "items": ["Kit de ladrão", "Traje de plebeu", "Animal urbano"],
+            "pericia": ["Furtividade", "Iniciativa", "Ladinagem"],
+            "poderes": ["Acrobático", "Aparência Inofensiva", "Quebra-Galho"]
+        },
+        {
+            "nome": "Refugiado",
+            "items": ["Item estrangeiro de até T$ 100"],
+            "pericia": ["Fortitude", "Reflexos", "Vontade"],
+            "poderes": ["Estoico", "Vontade de Ferro"]
+        },
+        {
+            "nome": "Seguidor",
+            "items": ["Item recebido de seu mestre de até T$ 100"],
+            "pericia": ["Adestramento", "Ofício"],
+            "poderes": ["Antigo Mestre", "Proficiência", "Surto Heroico"]
+        },
+        {
+            "nome": "Selvagem",
+            "items": ["Arma simples", "Animal pequeno de estimação"],
+            "pericia": ["Percepção", "Reflexos", "Sobrevivência"],
+            "poderes": ["Lobo Solitário", "Vida Rústica", "Vitalidade"]
+        },
+        {
+            "nome": "Soldado",
+            "items": ["Arma marcial", "Uniforme militar", "Insígnia de seu exército"],
+            "pericia": ["Fortitude", "Guerra", "Luta", "Pontaria"],
+            "poderes": ["Influência Militar", "Poder de Combate"]
+        },
+        {
+            "nome": "Taverneiro",
+            "items": ["Panela", "Avental", "Caneca", "Pano sujo"],
+            "items_opcao": ["Rolo de macarrão (mesmas estatísticas de uma clava)", "Martelo de carne (mesmas estatísticas de uma clava)"],
+            "pericia": ["Diplomacia", "Jogatina", "Ofício (culinária)"],
+            "poderes": ["Gororoba", "Proficiência", "Vitalidade"]
+        },
+        {
+            "nome": "Trabalhador",
+            "items": ["Ferramenta pesada (mesmas estatísticas de uma maça ou lança)"],
+            "pericia": ["Atletismo", "Fortitude"],
+            "poderes": ["Atlético", "Esforçado"]
+        }
+    ]
+}

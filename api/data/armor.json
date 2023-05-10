@@ -1,0 +1,76 @@
+{
+    "armaduras": [
+        {
+            "nome": "Armadura acolchoada",
+            "bonus": "+1",
+            "penalidade": "0",
+            "tipo": "leve"
+        },
+        {
+            "nome": "Armadura de couro",
+            "bonus": "+2",
+            "penalidade": "0",
+            "tipo": "leve"
+        },
+        {
+            "nome": "Couro batido",
+            "bonus": "+3",
+            "penalidade": "-1",
+            "tipo": "leve"
+        },
+        {
+            "nome": "Gibão de peles",
+            "bonus": "+4",
+            "penalidade": "-3",
+            "tipo": "leve"
+        },
+        {
+            "nome": "Couraça",
+            "bonus": "+5",
+            "penalidade": "-4",
+            "tipo": "leve"
+        },
+        {
+            "nome": "Brunea",
+            "bonus": "+5",
+            "penalidade": "-2",
+            "tipo": "pesada"
+        },
+        {
+            "nome": "Cota de malha",
+            "bonus": "+6",
+            "penalidade": "-2",
+            "tipo": "pesada"
+        },
+        {
+            "nome": "Loriga segmentada",
+            "bonus": "+7",
+            "penalidade": "-3",
+            "tipo": "pesada"
+        },
+        {
+            "nome": "Meia armadura",
+            "bonus": "+8",
+            "penalidade": "-4",
+            "tipo": "pesada"
+        },
+        {
+            "nome": "Armadura completa",
+            "bonus": "+10",
+            "penalidade": "-5",
+            "tipo": "pesada"
+        }
+    ],
+    "escudos": [
+        {
+            "nome": "Escudo leve",
+            "bonus": "+1",
+            "penalidade": "-1"
+        },
+        {
+            "nome": "Escudo pesado",
+            "bonus": "+2",
+            "penalidade": "-2"
+        }
+    ]
+}
