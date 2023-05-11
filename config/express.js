@@ -8,7 +8,10 @@ module.exports = () => {
   app.set('port', process.env.PORT || config.get('server.port'));
 
   app.use(bodyParser.json());
-
+  app.use(cors({
+      origin: '*'
+  }));
+  
   require('../api/routes/database')(app);
 
   return app;
