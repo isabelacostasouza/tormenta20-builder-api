@@ -8,9 +8,15 @@ module.exports = () => {
   app.set('port', process.env.PORT || config.get('server.port'));
 
   app.use(bodyParser.json());
-  app.use(cors({
-      origin: '*'
-  }));
+  
+  const cors=require("cors");
+  const corsOptions ={
+     origin:'*', 
+     credentials:true,
+     optionSuccessStatus:200,
+  }
+  
+  app.use(cors(corsOptions))
   
   require('../api/routes/database')(app);
 
